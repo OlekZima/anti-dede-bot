@@ -1,0 +1,12 @@
+[project]
+name = "anti-dede"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "audioop-lts>=0.2.1",
+    "discord-py>=2.4.0",
+    "libnacl>=2.1.0",
+    "python-dotenv>=1.0.1",
+]
