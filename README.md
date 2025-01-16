@@ -1,6 +1,6 @@
 # Anti Dede Bot
 
-Bot that deletes messages with attachments from specific user in specific channel.
+Bot that deletes messages with attachments from specific user in specific channel, if the message is older than 5 minutes.
 
 ## Usage
 
